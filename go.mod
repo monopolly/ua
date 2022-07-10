@@ -1,3 +1,3 @@
-module github.com/mileusna/useragent
+module github.com/monopolly/ua
 
-go 1.14
+go 1.18
